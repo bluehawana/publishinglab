@@ -1,0 +1,7 @@
+D:\GitHub\cicdlab\WebApp\bin\Release\net7.0\publish\WebApp.exe
+D:\GitHub\cicdlab\WebApp\bin\Release\net7.0\publish\appsettings.Development.json
+D:\GitHub\cicdlab\WebApp\bin\Release\net7.0\publish\appsettings.json
+D:\GitHub\cicdlab\WebApp\bin\Release\net7.0\publish\WebApp.dll
+D:\GitHub\cicdlab\WebApp\bin\Release\net7.0\publish\WebApp.deps.json
+D:\GitHub\cicdlab\WebApp\bin\Release\net7.0\publish\WebApp.runtimeconfig.json
+D:\GitHub\cicdlab\WebApp\bin\Release\net7.0\publish\WebApp.pdb
